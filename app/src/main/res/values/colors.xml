@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#4169E1</color>
+    <color name="colorPrimaryDark">#191970</color>
+    <color name="colorAccent">#DAA520</color>
+    <color name="colorAccent2">#B22222</color>
+    <color name="pinkLvl1">#EA706A</color>
+    <color name="pinkLvl2">#EA625C</color>
+    <color name="pinkLvl3">#E85A53</color>
+    <color name="pinkLvl4">#E84E47</color>
+    <color name="pinkLvl5">#E7453D</color>
+</resources>
